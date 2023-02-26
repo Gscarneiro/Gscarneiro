@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gscarneiro
-- 📚 I "know" .NET Framework and AngularJS
-- 🌱 I’m currently learning .NET 6, Angular and webpack 
+- 📚 My current stack is .NET, SQL Server and AngularJS.
+- 🌱 I’m currently learning Angular.
 
 <!---
 Gscarneiro/Gscarneiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
